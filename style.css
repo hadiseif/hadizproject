@@ -1,0 +1,49 @@
+
+#form_2{
+    border: 1px solid ;
+    border-radius: 45px;
+    
+}
+#form_1{
+    padding-bottom: 16px;
+    
+    
+}
+.h3{
+    padding-bottom: 6px;
+    padding-top: 6px;
+    text-decoration: none;
+    
+}
+#stadium{
+    
+    margin: 10px;
+    padding: 20px;
+
+
+}
+
+.images-1{
+    
+    
+    border: 1px solid ;
+    padding: 8px;
+    border-radius: 45px;
+    
+}
+.nav-link{
+    
+    padding: 10px;
+    margin: 20px;
+    margin-left: 50px;
+    background: fixed;
+    color: darkgreen;
+    
+}
+.card-img-top {
+    height: 200px; 
+    object-fit: cover; 
+    width: auto; 
+    margin: 0 auto; 
+
+}
